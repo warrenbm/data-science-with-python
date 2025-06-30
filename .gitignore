@@ -1,0 +1,6 @@
+# Fichiers inutiles de Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
